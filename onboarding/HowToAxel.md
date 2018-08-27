@@ -1,6 +1,8 @@
-Hi, welcome to the Expand Audience team. I’m so glad you are here at WeWork.
+Hi {NAME}, 
 
-It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
+welcome to the Expand Audience team. I’m so glad you are here at WeWork.
+
+It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every necessary meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
 
@@ -20,11 +22,11 @@ I take vacations. You should, too. Disconnect from work and recharge. A well-res
 
 **Leadership comes from everywhere.** I don’t believe managers have a monopoly on leadership, and I encourage non-managers to find and act on leadership opportunities (mentoring, presenting/demoing work, etc) in our teams.
 
-> **I see things as systems.** It is helpful for me to reduce complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+**I see things as systems.** It is helpful for me to reduce complex things (including humans) into systems. I think in diagrams. I take great joy in attempting to understand how these systems and diagrams all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
 **It is important to me that humans are treated fairly.** I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
 
-**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions can be valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy; it annoys those who like to debate. I find that communicating your thoughts and actions efficiently with others while making forward progress tends to reduce their anxiety. It also ensures you don't make yourself a single point of failure.
+**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions can be valuable, but I believe starting is the best way to make progress. This is not always the correct strategy; it annoys those who like to debate. I find communicating your thoughts and actions efficiently with others while making forward progress tends to reduce their anxiety. It also ensures you don't make yourself a single point of failure.
 
 **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
@@ -35,9 +37,11 @@ I take vacations. You should, too. Disconnect from work and recharge. A well-res
 ## Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
 
-At WeWork, there is a formal feedback cycle which occurs twice a year. The first time we go through this cycle, we’ll draft a proposed set of [OKRs](https://en.wikipedia.org/wiki/OKR) for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. I’ll send you these draft OKRs as well as upward feedback from your team before we meet so you can review beforehand.
+At WeWork, there is a formal feedback cycle which occurs twice a year. It is a fairly straightforward process, but time consuming. To help inform the feedback you will be requested to provide and request from others, we’ll draft a proposed set of [OKRs](https://en.wikipedia.org/wiki/OKR) for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you.
 
-In our face-to-face meeting, we’ll discuss and agree on your OKRs for the next period, and I’ll ask for feedback on my performance. At our following review, the process differs thusly: I’ll review you against our prior OKRs, and I’ll introduce new OKRs (if necessary). Rinse and repeat.
+The feeback cycle is always being improved upon so it changes a bit. For that reason I will not try to describe it. However, one thing doesnt' and it's our face-to-face meeting to discuss the results. In our face-to-face meeting, we’ll discuss and agree on your OKRs for the next period. At our following review, the process differs thusly: I’ll review you against our prior OKRs, and I’ll introduce new OKRs (if necessary). Rinse and repeat.
+
+In addition I like to create a 30/60/90 day plan for new engineers as part of your growth plan. Your progress through the plan will be a topic of discussion during our 1:1s.
 
 Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in our 1:1s. I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me.
 
@@ -62,7 +66,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Axel, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid and I probably need therapy.
+**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Axel, can you help with X?”). I respond poorly to being told what to do (Axel, do X.”) I have been this way since I was a kid and I probably need therapy.
 
 **I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry (not sorry).
 
@@ -72,4 +76,4 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **Humans stating opinions as facts** are a trigger for me.
 
-**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I  update it frequently and would appreciate your feedback.
+[1] **This document is a [living breathing thing](https://github.com/thinkaxelthink/leadershipdocs/blob/master/onboarding/HowToAxel.md)** and likely incomplete. I update it frequently and would appreciate your feedback.
